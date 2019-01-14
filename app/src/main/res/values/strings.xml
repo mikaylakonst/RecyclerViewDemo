@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="artist">artist</string>
+    <string name="song">song</string>
+    <string name="title">title</string>
+    <string name="album">album</string>
+    <string name="add_song">Add Song</string>
+</resources>
